@@ -682,7 +682,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/marcusscout'>VJ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/marcusscout'>Marcus Scout</a>
 
 -Dev 2 <a href='https://t.me/M0vies_Req_Chat'>Marcus Scout</a>
 
